@@ -1,3 +1,3 @@
 {
-  "backend": "https://license-server-production-8046.up.railway.app"
+  "licenseServer": "https://license-server-production-8046.up.railway.app"
 }
